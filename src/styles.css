@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(15, 1, 1, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(https://www.wallpaperkiss.com/wimg/b/134-1342147_big.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
