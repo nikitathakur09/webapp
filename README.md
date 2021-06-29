@@ -1,1 +1,2 @@
 # HOOK USED IN APP.JS
+{SRC->APP.JS->const App}
